@@ -1,8 +1,6 @@
 ## Hi there 👋
 # Control de Barra de LEDs con Raspberry Pi Pico W y Servidor Web
 
-Este proyecto utiliza una Raspberry Pi Pico W para controlar una barra de 8 LEDs mediante un servidor web. El usuario puede seleccionar diferentes patrones de luces desde una página web simple, accesible desde cualquier dispositivo conectado a la misma red Wi-Fi.
-
 ## Funcionalidad
 
 El código consta de dos partes principales:
